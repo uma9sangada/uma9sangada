@@ -61,53 +61,8 @@
     <img src="https://img.shields.io/badge/PEGA_CSSA-blue?style=for-the-badge&logo=pega&logoColor=white" alt="PEGA CSSA"/>
 - **GitHub Foundations Certification**
     <img src="https://img.shields.io/badge/GitHub_Foundations-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Foundations"/>
-    
+
 ## 💻 My Projects:
-
-<p align="left">
-    <a href="https://github.com/uma9sangada/BDD-UI_Framework">
-        <img src="https://img.shields.io/badge/BDD--UI_Framework-blueviolet?style=for-the-badge&logo=cucumber&logoColor=white" alt="BDD-UI_Framework"/>
-    </a>
-    <br>
-    Behavior-Driven Development UI Automation Framework.
-    <br>
-    <img src="https://img.shields.io/github/stars/uma9sangada/BDD-UI_Framework?style=social" alt="Stars"/>
-    <img src="https://img.shields.io/github/forks/uma9sangada/BDD-UI_Framework?style=social" alt="Forks"/>
-</p>
-
-<p align="left">
-    <a href="https://github.com/uma9sangada/Web_Automation_Framework">
-        <img src="https://img.shields.io/badge/Web_Automation_Framework-orange?style=for-the-badge&logo=java&logoColor=white" alt="Web_Automation_Framework"/>
-    </a>
-    <br>
-    Sample Web Automation Framework.
-    <br>
-    <img src="https://img.shields.io/github/stars/uma9sangada/Web_Automation_Framework?style=social" alt="Stars"/>
-    <img src="https://img.shields.io/github/forks/uma9sangada/Web_Automation_Framework?style=social" alt="Forks"/>
-</p>
-
-<p align="left">
-    <a href="https://github.com/uma9sangada/API-Automation_Framework">
-        <img src="https://img.shields.io/badge/API--Automation_Framework-red?style=for-the-badge&logo=restassured&logoColor=white" alt="API-Automation_Framework"/>
-    </a>
-    <br>
-    Sample API Automation Framework.
-    <br>
-    <img src="https://img.shields.io/github/stars/uma9sangada/API-Automation_Framework?style=social" alt="Stars"/>
-    <img src="https://img.shields.io/github/forks/uma9sangada/API-Automation_Framework?style=social" alt="Forks"/>
-</p>
-
-<p align="left">
-    <a href="https://github.com/uma9sangada/FeatureFileTools">
-        <img src="https://img.shields.io/badge/FeatureFileTools-lightgrey?style=for-the-badge&logo=tools&logoColor=black" alt="FeatureFileTools"/>
-    </a>
-    <br>
-    Tools for working with Cucumber feature files.
-    <br>
-    <img src="https://img.shields.io/github/stars/uma9sangada/FeatureFileTools?style=social" alt="Stars"/>
-    <img src="https://img.shields.io/github/forks/uma9sangada/FeatureFileTools?style=social" alt="Forks"/>
-</p>
-
 ## 📊 My GitHub Stats:
 
 <p align="center">
