@@ -1,21 +1,71 @@
-# 💫 About Me:
-SDET with 4 years of experience in automation testing, and framework development using Java, Selenium, TestNG, RestAssured,Cucumber, API, and CI/CD
+# 🚀 Uma Chandra Sekhar | SDET & Automation Enthusiast 🚀
 
+👋 Hello there! I'm Uma Chandra Sekhar, a passionate SDET with 4 years of hands-on experience in crafting robust automation frameworks and ensuring software quality. My expertise spans Java, Selenium, TestNG, RestAssured, Cucumber, API testing, and CI/CD pipelines.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/umasangada) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uma.sangada@gmail.com) 
+## 💼 What I Do:
 
-# 💻 Tech Stack:
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=uma9sangada&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=uma9sangada&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uma9sangada&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- 🛠️ Develop and maintain efficient automation frameworks.
+- 🧪 Design and execute comprehensive test suites for web and API applications.
+- 🔄 Implement CI/CD pipelines for seamless integration and deployment.
+- 💡 Drive quality initiatives and promote best practices in testing.
+- 📚 Continuously learn and adapt to emerging technologies in software testing.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=uma9sangada&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🛠️ Tech Stack:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/TestNG-E36159?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG"/>
+  <img src="https://img.shields.io/badge/RestAssured-00BCD4?style=for-the-badge&logo=restassured&logoColor=white" alt="RestAssured"/>
+  <img src="https://img.shields.io/badge/Cucumber-4CBB17?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+</p>
+
+## 📊 My GitHub Stats:
+
+<p align="center">
+  <a href="https://github.com/uma9sangada">
+    <img src="https://github-readme-stats.vercel.app/api?username=uma9sangada&show_icons=true&theme=dracula" alt="Uma Chandra Sekhar's GitHub Stats" />
+  </a>
+  <a href="https://github.com/uma9sangada">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uma9sangada&layout=compact&theme=dracula" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=uma9sangada&theme=dracula" alt="GitHub Streak" />
+  </a>
+</p>
+
+## 🏆 Top Contributed Repo:
+
+<p align="center">
+  <a href="https://github.com/uma9sangada">
+    <img src="https://github-contributor-stats.vercel.app/api?username=uma9sangada&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  </a>
+</p>
+
+## 🔗 Connect With Me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/in/umasangada" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:uma.sangada@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=uma9sangada&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=uma9sangada&icon=0&color=3" alt="Profile Views" />
+</p>
