@@ -28,6 +28,15 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 </p>
 
+## 🏅 Certifications:
+
+- **PEGA Certified System Architect (CSA)**
+  <img src="https://img.shields.io/badge/PEGA_CSA-blue?style=for-the-badge&logo=pega&logoColor=white" alt="PEGA CSA"/>
+- **PEGA Certified Senior System Architect (CSSA)**
+  <img src="https://img.shields.io/badge/PEGA_CSSA-blue?style=for-the-badge&logo=pega&logoColor=white" alt="PEGA CSSA"/>
+- **GitHub Foundations Certification**
+  <img src="https://img.shields.io/badge/GitHub_Foundations-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Foundations"/>
+
 ## 📊 My GitHub Stats:
 
 <p align="center">
