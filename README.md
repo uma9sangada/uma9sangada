@@ -6,18 +6,18 @@
 
 - 🛠️ Develop and maintain efficient automation frameworks.
 - 🧪 Design and execute comprehensive test suites for web and API applications.
-- 🔄 Implement CI/CD pipelines for seamless integration and deployment.
+- 🔄 Implement CI/CD pipelines for seamless integration and execution.
 - 💡 Drive quality initiatives and promote best practices in testing.
 - 📚 Continuously learn and adapt to emerging technologies in software testing.
 
 ## 🏆 Achievements:
 
+- 📈 **Amplified framework with reusable components for UI Testing, speeding up test execution and contributing to a 50% increase in efficiency.**
 - 🤖 **Enhanced code snippets using GitHub Copilot (AI), amplifying script development by 50%.**
-- 🚀 **Optimized execution efficiency by implementing a CI/CD pipeline, improving the execution phase by 80%.**
 - ⏱️ **Designed a Step Definitions generator for Scenarios, reducing building time by 80%.**
 - ⚡ **Created a Test step generator to speed up API and UI test scenarios design, enhancing productivity by 60%.**
 - 📄 **Accelerated test case uploads to Zephyr by developing a feature file/test case to Excel converter, slashing manual effort by 75% (90 minutes saved).**
-- 📈 **Amplified framework with reusable components for UI Testing, speeding up test execution and contributing to a 50% increase in efficiency.**
+
 
 ## 🛠️ Tech Stack:
 
