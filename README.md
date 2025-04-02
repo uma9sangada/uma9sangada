@@ -1,4 +1,4 @@
-# 🚀 Uma Chandra Sekhar | SDET & Automation Enthusiast 🚀
+# 🚀 Uma Chandra Sekhar | SDET & Automation Engineer
 
 👋 Hello there! I'm Uma Chandra Sekhar, a passionate SDET with 4 years of hands-on experience in crafting robust automation frameworks and ensuring software quality. My expertise spans Java, Selenium, TestNG, RestAssured, Cucumber, API testing, and CI/CD pipelines. I'm a strong advocate for continuous learning and am always eager to explore new technologies in the ever-evolving world of software testing. Outside of work, I enjoy reading and hiking.
 
