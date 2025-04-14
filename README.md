@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://www.linkedin.com/in/umasangada" target="_blank" rel="noreferrer">
+    <img src="https://github.com/uma9sangada/uma9sangada/blob/4b84bbd31a4e89adb161e11302f8cc3a7283c36c/Images/Uma%20Sangada.png" alt="My banner">
+  </a>
+</p>
+
+
 # Uma Chandra Sekhar | SDET 
 
 👋 Hello there! I'm Uma Chandra Sekhar, a passionate SDET with 4 years of hands-on experience in crafting robust automation frameworks and ensuring software quality. My expertise spans Java, Selenium, TestNG, RestAssured, Cucumber, API testing, and CI/CD pipelines. I'm a strong advocate for continuous learning and am always eager to explore new technologies in the ever-evolving world of software testing. Outside of work, I enjoy reading and hiking.
